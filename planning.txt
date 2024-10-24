@@ -2,3 +2,4 @@ PLANNING BELAJAR
 - Mahir programming
 - Menguasai PYTHON sebagai bahasa utama 
 - Mengetahui dasar dasar Cyber Security
+- Mahir mengoprasikan linux
