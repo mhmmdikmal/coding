@@ -33,5 +33,5 @@ Berikut beberapa teknologi dan tools yang saya pakai dalam mengerjakan project:
 Kalau tertarik diskusi, kolaborasi, atau sekadar mau tanya-tanya, silakan hubungi saya di:
 
 📧 Email: naufallikmall@gmail.com
-📱 Instagram: ikmal.naufl_
+📱 Instagram: @ikmal.naufl_
 🔗 LinkedIn : www.linkedin.com/in/muhammad-ikmal-naufal-73135a330
