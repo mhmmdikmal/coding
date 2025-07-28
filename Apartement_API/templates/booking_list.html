@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Daftar Apartemen</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .card-apartemen {
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            display: flex;
+            overflow: hidden;
+        }
+        .card-apartemen img {
+            width: 200px;
+            height: 150px;
+            object-fit: cover;
+        }
+        .card-body {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">Booking Apartemen Tersedia</h2>
+
+        <!-- Daftar Apartemen -->
+        <div class="card-apartemen bg-white">
+            <img src="/static/images/sentul_tower.jpg" alt="Sentul">
+            <div class="card-body">
+                <h5>SENTUL TOWER</h5>
+                <a href="/booking/SENTUL_TOWER" class="btn btn-outline-primary">Lihat Detail</a>
+            </div>
+        </div>
+
+        <div class="card-apartemen bg-white">
+            <img src="/static/images/bopal.png" alt="Bogor Valley">
+            <div class="card-body">
+                <h5>BOGOR VALLEY</h5>
+                <a href="/booking/BOGOR_VALLEY" class="btn btn-outline-primary">Lihat Detail</a>
+            </div>
+        </div>
+
+        <div class="card-apartemen bg-white">
+            <img src="/static/images/bogorienze.jpg" alt="Bogorienze">
+            <div class="card-body">
+                <h5>BOGORIENZE</h5>
+                <a href="/booking/BOGORIENZE" class="btn btn-outline-primary">Lihat Detail</a>
+            </div>
+        </div>
+
+        <div class="card-apartemen bg-white">
+            <img src="/static/images/podomoro.jpg" alt="Podomoro">
+            <div class="card-body">
+                <h5>APARTEMEN PODOMORO GOLF VIEW</h5>
+                <a href="/booking/APARTEMEN_PODOMORO_GOLF_VIEW" class="btn btn-outline-primary">Lihat Detail</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
